@@ -1,6 +1,6 @@
 const config = {
   CENTRE: {
-    id: "9be0b130-c92c-11eb-954f-f54e30975c19",
+    id: "13566210-56e2-11ee-a70d-b93a69d44761",
   },
   URL: {
     WEB: "https://edtify.com/",
